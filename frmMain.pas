@@ -25,8 +25,6 @@ var
 
 implementation
 
-uses frmChangelog;
-
 {$R *.dfm}
 
 procedure TForm1.btnClose_Click(Sender: TObject);
